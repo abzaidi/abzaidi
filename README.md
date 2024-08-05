@@ -5,15 +5,17 @@
 
 - 🌱 I’m currently learning **django and other frameworks**
 
-- 👨‍💻 All of my projects are available at [abzaidi.github.io](abzaidi.github.io)
+- 🏆 I've solved 250+ questions on **leetcode**
 
-- 📝 I regularly write articles on [https://medium.com/@ma2003110](https://medium.com/@ma2003110)
+- 👨‍💻 All of my projects are available on [My Portfolio](abzaidi.github.io)
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@ma2003110)
 
 - 💬 Ask me about **backend Development and AI**
 
 - 📫 How to reach me **abubakar.zaidi03@gmail.com**
 
-- 📄 Know about my experiences [https://bitly.cx/qIq8](https://bitly.cx/qIq8)
+- 📄 Know about my experiences on my [Resume](https://bitly.cx/qIq8)
 
 - ⚡ Fun fact **I drink too much coffee**
 
