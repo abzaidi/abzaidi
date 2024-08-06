@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abubakar</h1>
 <h3 align="center">A passionate Python Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **python projects**
+- 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **django and other frameworks**
+- 🌱 I’m currently learning **Django and Other Frameworks**
 
-- 🏆 I've solved 250+ questions on **leetcode**
+- 🏆 I've solved 250+ questions on **Leetcode**
 
 - 👨‍💻 All of my projects are available on [My Portfolio](abzaidi.github.io)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@ma2003110)
 
-- 💬 Ask me about **backend Development and AI**
+- 💬 Ask me about **Backend Development and AI**
 
 - 📫 How to reach me **abubakar.zaidi03@gmail.com**
 
