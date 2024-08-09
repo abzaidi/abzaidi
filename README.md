@@ -7,7 +7,7 @@
 
 - 🏆 I've solved 250+ questions on **Leetcode**
 
-- 👨‍💻 All of my projects are available on [My Portfolio](abzaidi.github.io)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://abzaidi.github.io/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@ma2003110)
 
