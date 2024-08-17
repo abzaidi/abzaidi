@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django and Other Frameworks**
 
-- 🏆 I've solved 250+ questions on **Leetcode**
+- 🏆 I've solved 250+ questions on [Leetcode](https://leetcode.com/u/abzaidi11/)
 
 - 👨‍💻 All of my projects are available on [My Portfolio](https://abzaidi.github.io/)
 
