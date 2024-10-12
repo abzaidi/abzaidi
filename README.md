@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python Developer from Pakistan</h3>
 
 <br>
-<img align="right" src="Linktree.png" alt="Your Image" width="400" height="370"/>
+<img align="right" src="Linktree.png" alt="Your Image" width="300" height="300"/>
 
 - 🔭 I’m currently working on **Python Projects**
 
