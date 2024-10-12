@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abubakar</h1>
 <h3 align="center">A passionate Python Developer from Pakistan</h3>
 
+<table>
+<tr>
+<td>
+
 - 🔭 I’m currently working on **Python Projects**
 
 - 🌱 I’m currently learning **Django and Other Frameworks**
 
-- 🏆 I've solved 250+ questions on [Leetcode](https://leetcode.com/u/abzaidi11/)
+- 🏆 I've solved 300+ questions on [Leetcode](https://leetcode.com/u/abzaidi11/)
 
 - 👨‍💻 All of my projects are available on [My Portfolio](https://abzaidi.github.io/)
 
@@ -15,9 +19,16 @@
 
 - 📫 How to reach me **abubakar.zaidi03@gmail.com**
 
-- 📄 Know about my experiences on my [Resume](https://bitly.cx/qIq8)
+- 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/1KWwU-qBEiABephd69buYcUaTCOECdsqf/view?usp=sharing)
 
 - ⚡ Fun fact **I drink too much coffee**
+
+</td>
+<td>
+<img src="https://w7.pngwing.com/pngs/101/660/png-transparent-computer-icons-html-web-design-web-development-web-design-angle-web-design-text.png" alt="Your Image" width="300"/>
+</td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
