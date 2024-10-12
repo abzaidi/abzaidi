@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python Developer from Pakistan</h3>
 
 <br>
-<img align="right" src="https://w7.pngwing.com/pngs/101/660/png-transparent-computer-icons-html-web-design-web-development-web-design-angle-web-design-text.png" alt="Your Image" width="500" height="350"/>
+<img align="right" src="Linktree.png" alt="Your Image" width="400" height="370"/>
 
 - 🔭 I’m currently working on **Python Projects**
 
